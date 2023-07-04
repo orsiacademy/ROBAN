@@ -24,7 +24,7 @@ To execute ROBAN in a live setting and inferencing a live video stream, live_inf
 
 The script will take the Webcam source (VideoCapture(0)) as input video, we used NDI (https://ndi.video/) to achieve this. It will display the video in an OpenCV window, which dimensions can be adjusted using the optional arguments output_width and output_height.
 
-# Credits?
+# Credits
 When referring to this software, please cite the article "De Backer, Simoens et al - Privacy-proof live surgery streaming: Development and validation of a low-cost, real-time robotic surgery anonymization algorithm" or acknowledge to Orsi Academy as software developer.
 # License
 @Jente: hier moeten nog dezelfde hyperlinks als CAMMA in (https://github.com/CAMMA-public/out-of-body-detector)
