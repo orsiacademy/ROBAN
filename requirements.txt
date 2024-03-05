@@ -1,7 +1,6 @@
 alive_progress==2.4.0
 opencv_python==4.5.5.64
 opencv_python_headless==4.5.5.64
-Pillow==9.0.1
 Pillow==10.0.0
 torch==2.0.1+cu117
 torchvision==0.15.2+cu117
